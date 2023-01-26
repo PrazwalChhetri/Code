@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812454492604",
+    "project_id": "review-f102e",
+    "storage_bucket": "review-f102e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812454492604:android:b81a83eada5a7b860593b9",
+        "android_client_info": {
+          "package_name": "com.prazwal.review"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812454492604-1nklb3pkc2drbc8vr0vhaj9aptslov8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1fQuizbSOsSOfJEp-qoEGFHTnBUlfLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812454492604-1nklb3pkc2drbc8vr0vhaj9aptslov8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
